@@ -1,0 +1,14 @@
+{
+  "entryType": "Punch",
+  "accountType": "Hourly",
+  "client": "Resh Client2",
+  "serviceCode": "Resh-HourlyCare",
+  "serviceDate": "Friday, October 28, 2022",
+  "inTime": "9:00 AM",
+  "outTime": "5:00 PM",
+  "method":  "Portal Signoff",
+  "reason": "ReshSp - fob broke - FOB001",
+  "notes": "Special Char Notes !@#$%^&*()",
+  "diagnosticCode": "01234",
+  "statements": "house cleaning"
+}
